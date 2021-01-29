@@ -1,0 +1,26 @@
+h1.whitecolor{
+    color:aliceblue;
+    background-color: brown
+}
+
+h1{
+    background-color: darkslateblue
+    text-align: center
+}
+
+h2{
+    text-align: center
+}
+
+h2.greencolor{
+    color:darkseagreen
+}
+
+h2.redcolor{
+    color:red
+}
+
+
+body{
+    background-image: url(https://www.biodic.go.jp/moni1000/photo/iso_0.jpg)
+}
